@@ -1,0 +1,11 @@
+Sin embargo, nos invita a pensar…
+a. ¿Qué hubiese sucedido si, en vez de generar un archivo por cada operación matemática, hubiésemos programado todo en un mismo archivo?
+-->en ese caso, hubiera sido un poco mas problemático el realizar el mantenimiento, igualmente este ejemplo era sencillo.
+
+b. ¿Por qué el mejor camino es generar distintos archivos y luego requerirlos en uno solo?
+-->porque asi, se puede separar en el grupo de trabajo, cada grupo/chico agarra un documento y puede probarlo, depurarlo, etc
+
+c. ¿Será esta metodología de trabajo una constante de aquí en adelante?
+-->Esperemos que si, es mas ordenada.
+
+Buenas preguntas para debatir con el resto de los estudiantes y junto con nuestro docente.
