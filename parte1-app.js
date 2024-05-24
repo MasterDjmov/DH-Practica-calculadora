@@ -24,10 +24,12 @@ console.log("La Resta de 5 - 2 es :" + Restar(5,2));
  * Ejecutar la función que permite multiplicar, pasando ahora como uno de los dos
 argumentos, el número cero. Mostrar en consola el resultado.
  */
+//-->el segundo parametro, en caso de no recibir algo, se pasa por defecto = 1
 console.log("La Multiplicación  de 5 * 2 es :" + Mutiplicar(5,2));
 
 /**Ejecutar la función que permite dividir, pasando como argumentos dos números
 cualesquiera. Mostrar en consola el resultado. */
+//-->el segundo parametro, en caso de no recibir algo, se pasa por defecto = 1
 console.log("La Division de 5 / 2 es :" + Dividir(5,2));
 
 /**
